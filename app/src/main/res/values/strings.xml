@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diario</string>
+    <string name="title_text">Diário da Gratidão</string>
+    <string name="grateful_text">Pelo que você é grato hoje?</string>
+    <string name="get_started_text">Vamos começar</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">Ou</string>
+    <string name="create_text">Criar Conta</string>
+    <string name="username_hint">Usuário</string>
+</resources>

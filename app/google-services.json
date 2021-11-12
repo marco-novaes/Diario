@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914426171012",
+    "project_id": "diario-c8a5f",
+    "storage_bucket": "diario-c8a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914426171012:android:af0a2fac6f616627d0fcd1",
+        "android_client_info": {
+          "package_name": "com.novaes.diario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914426171012-ta4kg924ukfgumko67qhn3bq5itv0046.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0mXE2LznTo-psJ2V5ck-4hFpvBkmwtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914426171012-ta4kg924ukfgumko67qhn3bq5itv0046.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
